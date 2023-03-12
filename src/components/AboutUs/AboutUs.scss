@@ -1,0 +1,46 @@
+.about-us {
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+    background-color: rgb(33, 33, 33);
+}
+
+.about-us-logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+        margin-top: -100px;
+        height: 700px;
+    }
+}
+
+.about-us-desc-container {
+    margin-top: -210px;
+    padding: 15px;
+    .about-us-desc-1 {
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        h1 {
+            font-size: 2.3em;
+            color: white;
+        }
+    }
+
+    .about-us-desc-2 {
+        width: 80%;
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+        h3 {
+            color: white;
+            font-weight: 400;
+        }
+    }
+
+    .about-us-desc-3 {}
+
+}
