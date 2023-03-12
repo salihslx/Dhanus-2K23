@@ -1,7 +1,5 @@
 import React from 'react';
 import './App.css';
-import AboutUs from './components/AboutUs/AboutUs';
-import DhanusPosters from './components/DhanusPosters/DhanusPosters';
 import Footer from './components/Footer/Footer';
 import TopBanner from './components/TopBanner/TopBanner';
 import { TopBannerViewProvider } from './context/TopBannerViewContext';
