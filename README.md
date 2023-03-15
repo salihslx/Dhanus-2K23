@@ -1,3 +1,6 @@
+
+<b>Hosted link:<a>https://mellifluous-daifuku-fbc375.netlify.app/</a><b>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
