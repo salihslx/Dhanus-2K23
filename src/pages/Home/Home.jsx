@@ -19,7 +19,7 @@ function Home() {
           <h1 className='home-dhanus-text-primary'>
             𝐃HANUS<br/>2K23
           </h1>
-          <h2 className='home-dhanus-text-secondary'>Powered by <span>College of Engineering Kallooppara</span></h2>
+          <h2 className='home-dhanus-text-secondary'>Powered by <span>College of Engineering Kallooppara,Thiruvalla,IHRD,Govt of Kerala</span></h2>
         </main>
        
       </div>
